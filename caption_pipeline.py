@@ -5,6 +5,7 @@ from google.api_core.exceptions import NotFound, InvalidArgument
 
 # Run this first on the terminal: 
 
+
 # To see which metadata keys were actually considered in the final output
 ALLOWED_FIELDS = {"main_components","length_m","num_piers","missing_components","notes","bridge_type"}
 
