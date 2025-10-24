@@ -20,13 +20,12 @@ The goal is to produce factual, descriptive, and research-ready captions for 3D 
 ---
 
 ## 📂 Project Structure
-
-
+```
 ├── generate_captions.py # Main script (your code)
 ├── metadata_examples.jsonl # Input metadata examples (JSON Lines format)
 ├── output.json # Example output file
 └── README.md 
-
+```
 
 ---
 
