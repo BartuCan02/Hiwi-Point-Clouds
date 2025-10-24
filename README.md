@@ -34,7 +34,6 @@ The goal is to produce factual, descriptive, and research-ready captions for 3D 
 ### 1. Clone the repository
 
 git clone https://github.com/BartuCan02/Hiwi-Point-Clouds.git
-cd <your-repo-name>
 
 ### 2. Create a virtual environment
 python3 -m venv venv
