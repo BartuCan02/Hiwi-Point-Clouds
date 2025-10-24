@@ -14,18 +14,16 @@ The goal is to produce factual, descriptive, and research-ready captions for 3D 
   - Three **single-round** Q&A pairs (`single_conversation`)
   - One **multi-round** Q&A chain (`multi_conversation`)
 - Uses **Google Gemini API** with automatic token counting, output budgeting, and fallback between models.
-- Performs **validation** checks between metadata and model output (optional).
+- Performs **validation** checks between metadata and model output.
 - Outputs results as valid JSON with consistent schema.
 
 ---
 
 ## 📂 Project Structure
-.
 ├── generate_captions.py # Main script (your code)
 ├── metadata_examples.jsonl # Input metadata examples (JSON Lines format)
 ├── output.json # Example output file
-└── README.md # This file
-
+└── README.md 
 ---
 
 ## 🧰 Installation & Setup
