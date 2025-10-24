@@ -1,0 +1,1 @@
+{"id":"bridge_000123","domain":"bridge", "bridge_type": "beam bridge", "main_components":["deck","two main girders","four piers","handrails"],"length_m":124.6,"num_piers":4,"missing_components":["left handrail segment at span 2"],"notes":"scan sparsity near abutments; minor occlusion under deck","style":"concise|neutral|descriptive|inspection","target_tokens":80}

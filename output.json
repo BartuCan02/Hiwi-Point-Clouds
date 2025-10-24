@@ -1,0 +1,40 @@
+{
+  "id": "bridge_000123",
+  "domain": "bridge",
+  "output": {
+    "caption": "This is a 124.6-meter-long beam bridge, a common type of overpass designed for efficient load distribution. Its primary structure consists of a flat deck supported by two robust main girders, which in turn rest upon four substantial piers. The bridge is equipped with handrails, providing safety for users. This design is typical for spanning moderate distances, facilitating the passage of traffic or pedestrians over obstacles like rivers or roadways, emphasizing structural simplicity and reliability.",
+    "single_conversation": [
+      {
+        "Q": "What type of bridge is this?",
+        "A": "This is a beam bridge, characterized by its simple, robust structure for spanning distances."
+      },
+      {
+        "Q": "What are the primary structural components of this bridge?",
+        "A": "The main components include a deck, two main girders, four supporting piers, and handrails."
+      },
+      {
+        "Q": "What is the approximate length of this bridge?",
+        "A": "The bridge measures approximately 124.6 meters in length."
+      }
+    ],
+    "multi_conversation": [
+      {
+        "Q1": "Could you describe the overall structure of this bridge?",
+        "A1": "It is a beam bridge, a straightforward design where the deck is directly supported by girders resting on piers.",
+        "Q2": "How many piers support the main structure?",
+        "A2": "The bridge is supported by four distinct piers.",
+        "Q3": "What is the primary function of the main girders?",
+        "A3": "The two main girders are crucial for supporting the deck and distributing the load efficiently to the piers."
+      }
+    ]
+  },
+  "metadata_used": [
+    "bridge_type",
+    "length_m",
+    "main_components",
+    "missing_components",
+    "notes",
+    "num_piers"
+  ],
+  "validation_issues": []
+}
