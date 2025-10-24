@@ -1,4 +1,4 @@
-# 🧠 PointLLM Bridge Caption Generator
+# 🧠 Point Clouds Caption Generator
 
 This repository contains a Python script that automatically generates **structured captions and Q&A conversations** for 3D bridge metadata using **Google Gemini models** (Gemini 2.5 Flash and Gemini 2.5 Pro).
 
@@ -21,7 +21,7 @@ The goal is to produce factual, descriptive, and research-ready captions for 3D 
 
 ## 📂 Project Structure
 ```
-├── generate_captions.py # Main script (your code)
+├── generate_captions.py # Main script 
 ├── metadata_examples.jsonl # Input metadata examples (JSON Lines format)
 ├── output.json # Example output file
 └── README.md 
@@ -33,7 +33,7 @@ The goal is to produce factual, descriptive, and research-ready captions for 3D 
 
 ### 1. Clone the repository
 
-git clone https://github.com/<your-username>/<your-repo-name>.git
+git clone https://github.com/BartuCan02/Hiwi-Point-Clouds.git
 cd <your-repo-name>
 
 ### 2. Create a virtual environment
