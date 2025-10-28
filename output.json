@@ -1,40 +1,40 @@
 {
-  "id": "bridge_000123",
-  "domain": "bridge",
+  "id": "BR001",
+  "domain": "bridges",
   "output": {
-    "caption": "This is a 124.6-meter-long beam bridge, a common type of overpass designed for efficient load distribution. Its primary structure consists of a flat deck supported by two robust main girders, which in turn rest upon four substantial piers. The bridge is equipped with handrails, providing safety for users. This design is typical for spanning moderate distances, facilitating the passage of traffic or pedestrians over obstacles like rivers or roadways, emphasizing structural simplicity and reliability.",
+    "caption": "This 3D model presents a classic arch bridge, characterized by its elegant curvature and robust structural integrity. It boasts a substantial span length of 60 meters, accommodating a practical deck width of 8 meters. Reaching an impressive height of 12 meters, the bridge provides ample clearance below. Supported by two strategically placed piers, this design is inherently strong and efficient, making it ideal for traversing significant gaps, such as rivers or valleys, and facilitating essential transportation links.",
     "single_conversation": [
       {
-        "Q": "What type of bridge is this?",
-        "A": "This is a beam bridge, characterized by its simple, robust structure for spanning distances."
+        "Q": "What is the primary structural type of this bridge?",
+        "A": "This is an arch bridge, a design renowned for its inherent strength and aesthetic grace, efficiently distributing loads through its curved form."
       },
       {
-        "Q": "What are the primary structural components of this bridge?",
-        "A": "The main components include a deck, two main girders, four supporting piers, and handrails."
+        "Q": "Can you detail the critical dimensions of this structure?",
+        "A": "Certainly. The bridge commands a span length of 60 meters, features a practical deck width of 8 meters, and rises to an impressive height of 12 meters."
       },
       {
-        "Q": "What is the approximate length of this bridge?",
-        "A": "The bridge measures approximately 124.6 meters in length."
+        "Q": "How many foundational supports does this bridge utilize?",
+        "A": "The structure is firmly supported by two robust piers, providing essential stability for its substantial span."
       }
     ],
     "multi_conversation": [
       {
-        "Q1": "Could you describe the overall structure of this bridge?",
-        "A1": "It is a beam bridge, a straightforward design where the deck is directly supported by girders resting on piers.",
-        "Q2": "How many piers support the main structure?",
-        "A2": "The bridge is supported by four distinct piers.",
-        "Q3": "What is the primary function of the main girders?",
-        "A3": "The two main girders are crucial for supporting the deck and distributing the load efficiently to the piers."
+        "Q1": "Describe the fundamental architectural style of this bridge.",
+        "A1": "This bridge exemplifies an arch design, a classical and highly efficient structural form that channels compressive forces outward to its supports.",
+        "Q2": "Given its arch design, what are its significant dimensions?",
+        "A2": "Its dimensions are quite notable: a generous span of 60 meters, an 8-meter-wide deck for passage, and an impressive height of 12 meters, allowing for considerable clearance.",
+        "Q3": "Considering these dimensions and the arch type, what role do the piers play?",
+        "A3": "The two piers are crucial, acting as the primary abutments for the arch, receiving and transferring the substantial loads from the 60-meter span into the ground, thereby anchoring the entire structure."
       }
     ]
   },
   "metadata_used": [
+    "bridge_height",
     "bridge_type",
-    "length_m",
-    "main_components",
+    "deck_width",
     "missing_components",
-    "notes",
-    "num_piers"
+    "num_piers",
+    "span_length"
   ],
   "validation_issues": []
 }

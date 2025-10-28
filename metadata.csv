@@ -1,0 +1,4 @@
+BridgeID,Bridge_Type,SpanLength,DeckWidth,BridgeHeight,MissingComponents,NumberOfPiers
+BR001,Arch,60,8,12,None,2
+BR002,Suspension,120,10,20,"Some missing deck sections",3
+BR003,Beam,30,6,9,None,1
