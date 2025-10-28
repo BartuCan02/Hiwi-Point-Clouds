@@ -8,7 +8,7 @@ The goal is to produce factual, descriptive, and research-ready captions for 3D 
 
 ## 🚀 Features
 
-- Builds detailed natural-language **captions** for given metadata.
+- Builds detailed natural-language **captions** for given metadata in csv format.
 - Generates:
   - One descriptive paragraph (`caption`)
   - Three **single-round** Q&A pairs (`single_conversation`)
@@ -22,7 +22,7 @@ The goal is to produce factual, descriptive, and research-ready captions for 3D 
 ## 📂 Project Structure
 ```
 ├── generate_captions.py # Main script 
-├── metadata_examples.jsonl # Input metadata examples (JSON Lines format)
+├── metadata.csv # Input metadata examples (.csv format)
 ├── output.json # Example output file
 └── README.md 
 ```
